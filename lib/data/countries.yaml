@@ -3,6 +3,7 @@ AD:
   alpha2: AD
   alpha3: AND
   country_code: "376"
+  country_skype_code: "+376"
   currency: EUR
   international_prefix: "00"
   ioc: AND
@@ -24,6 +25,7 @@ AD:
   region: Europe
   subregion: "Southern Europe"
   un_locode: AD
+  number_country_skype_code: "020+376"
 AE: 
   address_format: |-
       {{recipient}}
@@ -33,6 +35,7 @@ AE:
   alpha2: AE
   alpha3: ARE
   country_code: "971"
+  country_skype_code: "+971"
   currency: AED
   international_prefix: "00"
   ioc: UAE
@@ -55,10 +58,12 @@ AE:
   region: Asia
   subregion: "Western Asia"
   un_locode: AE
+  number_country_skype_code: "784+971"
 AF: 
   alpha2: AF
   alpha3: AFG
   country_code: "93"
+  country_skype_code: "+93"
   currency: AFN
   international_prefix: "00"
   ioc: AFG
@@ -78,10 +83,12 @@ AF:
   region: Asia
   subregion: "Southern Asia"
   un_locode: AF
+  number_country_skype_code: "004+93"
 AG: 
   alpha2: AG
   alpha3: ATG
   country_code: "1"
+  country_skype_code: "+1268"
   currency: XCD
   international_prefix: "011"
   ioc: ANT
@@ -102,10 +109,12 @@ AG:
   region: Americas
   subregion: Caribbean
   un_locode: AG
+  number_country_skype_code: "028+1268"
 AI: 
   alpha2: AI
   alpha3: AIA
   country_code: "1"
+  country_skype_code: "+1264"
   currency: XCD
   international_prefix: "011"
   ioc: 
@@ -123,10 +132,12 @@ AI:
   region: Americas
   subregion: Caribbean
   un_locode: AI
+  number_country_skype_code: "660+1264"
 AL: 
   alpha2: AL
   alpha3: ALB
   country_code: "355"
+  country_skype_code: "+355"
   currency: ALL
   international_prefix: "00"
   ioc: ALB
@@ -148,10 +159,12 @@ AL:
   region: Europe
   subregion: "Southern Europe"
   un_locode: AL
+  number_country_skype_code: "008+355"
 AM: 
   alpha2: AM
   alpha3: ARM
   country_code: "374"
+  country_skype_code: "+374"
   currency: AMD
   international_prefix: "00"
   ioc: ARM
@@ -171,10 +184,12 @@ AM:
   region: Asia
   subregion: "Western Asia"
   un_locode: AM
+  number_country_skype_code: "051+374"
 AN: 
   alpha2: AN
   alpha3: ANT
   country_code: "599"
+  country_skype_code: "+599"
   currency: ANG
   international_prefix: "00"
   ioc: AHO
@@ -195,10 +210,12 @@ AN:
   region: Americas
   subregion: Caribbean
   un_locode: AN
+  number_country_skype_code: "530+599"
 AO: 
   alpha2: AO
   alpha3: AGO
   country_code: "244"
+  country_skype_code: "+244"
   currency: AOA
   international_prefix: "00"
   ioc: ANG
@@ -216,10 +233,12 @@ AO:
   region: Africa
   subregion: "Middle Africa"
   un_locode: AO
+  number_country_skype_code: "024+244"
 AQ: 
   alpha2: AQ
   alpha3: ATA
   country_code: "672"
+  country_skype_code: "+672"
   currency: ~
   international_prefix: ""
   ioc: 
@@ -238,6 +257,7 @@ AQ:
   region: ""
   subregion: ""
   un_locode: AQ
+  number_country_skype_code: "010+672"
 AR: 
   address_format: |-
       {{recipient}}
@@ -248,6 +268,7 @@ AR:
   alpha2: AR
   alpha3: ARG
   country_code: "54"
+  country_skype_code: "+54"
   currency: ARS
   international_prefix: "00"
   ioc: ARG
@@ -268,10 +289,12 @@ AR:
   region: Americas
   subregion: "South America"
   un_locode: AR
+  number_country_skype_code: "032+54"
 AS: 
   alpha2: AS
   alpha3: ASM
   country_code: "1"
+  country_skype_code: "+1684"
   currency: USD
   international_prefix: "011"
   ioc: ASA
@@ -292,6 +315,7 @@ AS:
   region: Oceania
   subregion: Polynesia
   un_locode: AS
+  number_country_skype_code: "016+1684"
 AT: 
   address_format: |-
       {{recipient}}
@@ -301,6 +325,7 @@ AT:
   alpha2: AT
   alpha3: AUT
   country_code: "43"
+  country_skype_code: "+43"
   currency: EUR
   international_prefix: "00"
   ioc: AUT
@@ -328,6 +353,7 @@ AT:
   region: Europe
   subregion: "Western Europe"
   un_locode: AT
+  number_country_skype_code: "040+43"
 AU: 
   address_format: |-
       {{recipient}}
@@ -337,6 +363,7 @@ AU:
   alpha2: AU
   alpha3: AUS
   country_code: "61"
+  country_skype_code: "+61"
   currency: AUD
   international_prefix: "0011"
   ioc: AUS
@@ -356,10 +383,12 @@ AU:
   region: Oceania
   subregion: "Australia and New Zealand"
   un_locode: AU
+  number_country_skype_code: "036+61"
 AW: 
   alpha2: AW
   alpha3: ABW
   country_code: "297"
+  country_skype_code: "+297"
   currency: AWG
   international_prefix: "00"
   ioc: ARU
@@ -377,10 +406,12 @@ AW:
   region: Americas
   subregion: Caribbean
   un_locode: AW
+  number_country_skype_code: "533+297"
 AX: 
   alpha2: AX
   alpha3: ALA
   country_code: "358"
+  country_skype_code: "+358"
   currency: ~
   international_prefix: ""
   ioc: 
@@ -395,11 +426,13 @@ AX:
   number: "248"
   region: Europe
   subregion: "Northern Europe"
-  un_locode: 
+  un_locode:
+  number_country_skype_code: "248+358" 
 AZ: 
   alpha2: AZ
   alpha3: AZE
   country_code: "994"
+  country_skype_code: "+994"
   currency: AZN
   international_prefix: "810"
   ioc: AZE
@@ -421,6 +454,7 @@ AZ:
   region: Asia
   subregion: "Western Asia"
   un_locode: AZ
+  number_country_skype_code: "031+994"
 BA: 
   address_format: |-
       {{recipient}}
@@ -430,6 +464,7 @@ BA:
   alpha2: BA
   alpha3: BIH
   country_code: "387"
+  country_skype_code: "+387"
   currency: BAM
   international_prefix: "00"
   ioc: BIH
@@ -450,10 +485,12 @@ BA:
   region: Europe
   subregion: "Southern Europe"
   un_locode: BA
+  number_country_skype_code: "070+387"
 BB: 
   alpha2: BB
   alpha3: BRB
   country_code: "1"
+  country_skype_code: "+1246"
   currency: BBD
   international_prefix: "011"
   ioc: BAR
@@ -472,10 +509,12 @@ BB:
   region: Americas
   subregion: Caribbean
   un_locode: BB
+  number_country_skype_code: "052+1246"
 BD: 
   alpha2: BD
   alpha3: BGD
   country_code: "880"
+  country_skype_code: "+880"
   currency: BTD
   international_prefix: "00"
   ioc: BAN
@@ -494,6 +533,7 @@ BD:
   region: Asia
   subregion: "Southern Asia"
   un_locode: BD
+  number_country_skype_code: "050+880"
 BE: 
   address_format: |-
       {{recipient}}
@@ -503,6 +543,7 @@ BE:
   alpha2: BE
   alpha3: BEL
   country_code: "32"
+  country_skype_code: "+32"
   currency: EUR
   international_prefix: "00"
   ioc: BEL
@@ -524,10 +565,12 @@ BE:
   region: Europe
   subregion: "Western Europe"
   un_locode: BE
+  number_country_skype_code: "056+32"
 BF: 
   alpha2: BF
   alpha3: BFA
   country_code: "226"
+  country_skype_code: "+226"
   currency: XOF
   international_prefix: "00"
   ioc: BUR
@@ -545,6 +588,7 @@ BF:
   region: Africa
   subregion: "Western Africa"
   un_locode: BF
+  number_country_skype_code: "854+226"
 BG: 
   address_format: |-
       {{recipient}}
@@ -554,6 +598,7 @@ BG:
   alpha2: BG
   alpha3: BGR
   country_code: "359"
+  country_skype_code: "+359"
   currency: BGN
   international_prefix: "00"
   ioc: BUL
@@ -575,6 +620,7 @@ BG:
   region: Europe
   subregion: "Eastern Europe"
   un_locode: BG
+  number_country_skype_code: "100+359"
 BH: 
   address_format: |-
       {{recipient}}
@@ -584,6 +630,7 @@ BH:
   alpha2: BH
   alpha3: BHR
   country_code: "973"
+  country_skype_code: "+973"
   currency: BHD
   international_prefix: "00"
   ioc: BRN
@@ -603,10 +650,12 @@ BH:
   region: Asia
   subregion: "Western Asia"
   un_locode: BH
+  number_country_skype_code: "048+973"
 BI: 
   alpha2: BI
   alpha3: BDI
   country_code: "257"
+  country_skype_code: "+257"
   currency: BIF
   international_prefix: "00"
   ioc: BDI
@@ -624,10 +673,12 @@ BI:
   region: Africa
   subregion: "Eastern Africa"
   un_locode: BI
+  number_country_skype_code: "108+257"
 BJ: 
   alpha2: BJ
   alpha3: BEN
   country_code: "229"
+  country_skype_code: "+229"
   currency: XOF
   international_prefix: "00"
   ioc: BEN
@@ -646,10 +697,12 @@ BJ:
   region: Africa
   subregion: "Western Africa"
   un_locode: BJ
+  number_country_skype_code: "204+229"
 BL: 
   alpha2: BL
   alpha3: BLM
   country_code: "590"
+  country_skype_code: "+590"
   currency: ~
   international_prefix: ""
   ioc: 
@@ -664,11 +717,13 @@ BL:
   number: "652"
   region: Americas
   subregion: Caribbean
-  un_locode: 
+  un_locode:
+  number_country_skype_code: "652+590" 
 BM: 
   alpha2: BM
   alpha3: BMU
   country_code: "1"
+  country_skype_code: "+1441"
   currency: BMD
   international_prefix: "011"
   ioc: BER
@@ -688,10 +743,12 @@ BM:
   region: Americas
   subregion: "Northern America"
   un_locode: BM
+  number_country_skype_code: "060+1441"
 BN: 
   alpha2: BN
   alpha3: BRN
   country_code: "673"
+  country_skype_code: "+673"
   currency: BND
   international_prefix: "00"
   ioc: BRU
@@ -709,10 +766,12 @@ BN:
   region: Asia
   subregion: "South-Eastern Asia"
   un_locode: BN
+  number_country_skype_code: "096+673"
 BO: 
   alpha2: BO
   alpha3: BOL
   country_code: "591"
+  country_skype_code: "+591"
   currency: BOB
   international_prefix: "0010"
   ioc: BOL
@@ -732,6 +791,7 @@ BO:
   region: Americas
   subregion: "South America"
   un_locode: BO
+  number_country_skype_code: "068+591"
 BR: 
   address_format: |-
       {{recipient}}
@@ -741,6 +801,7 @@ BR:
   alpha2: BR
   alpha3: BRA
   country_code: "55"
+  country_skype_code: "+55"
   currency: BRL
   international_prefix: "0014"
   ioc: BRA
@@ -761,10 +822,12 @@ BR:
   region: Americas
   subregion: "South America"
   un_locode: BR
+  number_country_skype_code: "076+55"
 BS: 
   alpha2: BS
   alpha3: BHS
   country_code: "1"
+  country_skype_code: "+1242"
   currency: BSD
   international_prefix: "011"
   ioc: BAH
@@ -782,10 +845,12 @@ BS:
   region: Americas
   subregion: Caribbean
   un_locode: BS
+  number_country_skype_code: "044+1242"
 BT: 
   alpha2: BT
   alpha3: BTN
   country_code: "975"
+  country_skype_code: "+975"
   currency: BTN
   international_prefix: "00"
   ioc: BHU
@@ -806,10 +871,12 @@ BT:
   region: Asia
   subregion: "Southern Asia"
   un_locode: BT
+  number_country_skype_code: "064+975"
 BV: 
   alpha2: BV
   alpha3: BVT
   country_code: ""
+  country_skype_code: "+47"
   currency: NOK
   international_prefix: ""
   ioc: 
@@ -825,10 +892,12 @@ BV:
   region: ""
   subregion: ""
   un_locode: 
+  number_country_skype_code: "074+47"
 BW: 
   alpha2: BW
   alpha3: BWA
   country_code: "267"
+  country_skype_code: "+267"
   currency: BWP
   international_prefix: "00"
   ioc: BOT
@@ -846,10 +915,12 @@ BW:
   region: Africa
   subregion: "Southern Africa"
   un_locode: BW
+  number_country_skype_code: "072+267"
 BY: 
   alpha2: BY
   alpha3: BLR
   country_code: "375"
+  country_skype_code: "+375"
   currency: BYR
   international_prefix: "810"
   ioc: BLR
@@ -870,10 +941,12 @@ BY:
   region: Europe
   subregion: "Eastern Europe"
   un_locode: BY
+  number_country_skype_code: "112+375"
 BZ: 
   alpha2: BZ
   alpha3: BLZ
   country_code: "501"
+  country_skype_code: "+501"
   currency: BZD
   international_prefix: "00"
   ioc: BIZ
@@ -892,6 +965,7 @@ BZ:
   region: Americas
   subregion: "Central America"
   un_locode: BZ
+  number_country_skype_code: "084+501"
 CA: 
   address_format: |-
       {{recipient}}
@@ -901,6 +975,7 @@ CA:
   alpha2: CA
   alpha3: CAN
   country_code: "1"
+  country_skype_code: "+1"
   currency: CAD
   international_prefix: "011"
   ioc: CAN
@@ -920,10 +995,12 @@ CA:
   region: Americas
   subregion: "Northern America"
   un_locode: CA
+  number_country_skype_code: "124+1"
 CC: 
   alpha2: CC
   alpha3: CCK
   country_code: "61"
+  country_skype_code: "+61"
   currency: AUD
   international_prefix: "0011"
   ioc: 
@@ -941,10 +1018,12 @@ CC:
   region: Oceania
   subregion: "Australia and New Zealand"
   un_locode: CC
+  number_country_skype_code: "166+61"
 CD: 
   alpha2: CD
   alpha3: COD
   country_code: "243"
+  country_skype_code: "+243"
   currency: ~
   international_prefix: "00"
   ioc: COD
@@ -965,10 +1044,12 @@ CD:
   region: Africa
   subregion: "Middle Africa"
   un_locode: CD
+  number_country_skype_code: "180+243"
 CF: 
   alpha2: CF
   alpha3: CAF
   country_code: "236"
+  country_skype_code: "+236"
   currency: XAF
   international_prefix: "00"
   ioc: CAF
@@ -989,10 +1070,12 @@ CF:
   region: Africa
   subregion: "Middle Africa"
   un_locode: CF
+  number_country_skype_code: "140+236"
 CG: 
   alpha2: CG
   alpha3: COG
   country_code: "242"
+  country_skype_code: "+242"
   currency: ~
   international_prefix: "00"
   ioc: CGO
@@ -1011,6 +1094,7 @@ CG:
   region: Africa
   subregion: "Middle Africa"
   un_locode: CG
+  number_country_skype_code: "178+242"
 CH: 
   address_format: |-
       {{recipient}}
@@ -1020,6 +1104,7 @@ CH:
   alpha2: CH
   alpha3: CHE
   country_code: "41"
+  country_skype_code: "+41"
   currency: CHF
   international_prefix: "00"
   ioc: SUI
@@ -1041,10 +1126,12 @@ CH:
   region: Europe
   subregion: "Western Europe"
   un_locode: CH
+  number_country_skype_code: "756+41"
 CI: 
   alpha2: CI
   alpha3: CIV
   country_code: "225"
+  country_skype_code: "+225"
   currency: XOF
   international_prefix: "00"
   ioc: CIV
@@ -1062,10 +1149,12 @@ CI:
   region: Africa
   subregion: "Western Africa"
   un_locode: CI
+  number_country_skype_code: "384+225"
 CK: 
   alpha2: CK
   alpha3: COK
   country_code: "682"
+  country_skype_code: "+682"
   currency: NZD
   international_prefix: "00"
   ioc: COK
@@ -1086,10 +1175,12 @@ CK:
   region: Oceania
   subregion: Polynesia
   un_locode: CK
+  number_country_skype_code: "184+682"
 CL: 
   alpha2: CL
   alpha3: CHL
   country_code: "56"
+  country_skype_code: "+56"
   currency: CLP
   international_prefix: "00"
   ioc: CHI
@@ -1108,10 +1199,12 @@ CL:
   region: Americas
   subregion: "South America"
   un_locode: CL
+  number_country_skype_code: "152+56"
 CM: 
   alpha2: CM
   alpha3: CMR
   country_code: "237"
+  country_skype_code: "+237"
   currency: XAF
   international_prefix: "00"
   ioc: CMR
@@ -1132,6 +1225,7 @@ CM:
   region: Africa
   subregion: "Middle Africa"
   un_locode: CM
+  number_country_skype_code: "120+237"
 CN: 
   address_format: |-
       {{recipient}}
@@ -1141,6 +1235,7 @@ CN:
   alpha2: CN
   alpha3: CHN
   country_code: "86"
+  country_skype_code: "+86"
   currency: CNY
   international_prefix: "00"
   ioc: CHN
@@ -1163,10 +1258,12 @@ CN:
   region: Asia
   subregion: "Eastern Asia"
   un_locode: CN
+  number_country_skype_code: "156+86"
 CO: 
   alpha2: CO
   alpha3: COL
   country_code: "57"
+  country_skype_code: "+57"
   currency: COP
   international_prefix: "005"
   ioc: COL
@@ -1187,10 +1284,12 @@ CO:
   region: Americas
   subregion: "South America"
   un_locode: CO
+  number_country_skype_code: "170+57"
 CR: 
   alpha2: CR
   alpha3: CRI
   country_code: "506"
+  country_skype_code: "+506"
   currency: CRC
   international_prefix: "00"
   ioc: CRC
@@ -1208,10 +1307,12 @@ CR:
   region: Americas
   subregion: "Central America"
   un_locode: CR
+  number_country_skype_code: "188+506"
 CU: 
   alpha2: CU
   alpha3: CUB
   country_code: "53"
+  country_skype_code: "+53"
   currency: CUP
   international_prefix: "119"
   ioc: CUB
@@ -1230,10 +1331,12 @@ CU:
   region: Americas
   subregion: Caribbean
   un_locode: CU
+  number_country_skype_code: "192+53"
 CV: 
   alpha2: CV
   alpha3: CPV
   country_code: "238"
+  country_skype_code: "+238"
   currency: CVE
   international_prefix: "00"
   ioc: CPV
@@ -1254,10 +1357,12 @@ CV:
   region: Africa
   subregion: "Western Africa"
   un_locode: CV
+  number_country_skype_code: "132+238"
 CX: 
   alpha2: CX
   alpha3: CXR
   country_code: "61"
+  country_skype_code: "+61"
   currency: AUD
   international_prefix: "0011"
   ioc: 
@@ -1273,10 +1378,12 @@ CX:
   region: Oceania
   subregion: "Australia and New Zealand"
   un_locode: CX
+  number_country_skype_code: "162+61"
 CY: 
   alpha2: CY
   alpha3: CYP
   country_code: "357"
+  country_skype_code: "+357"
   currency: EUR
   international_prefix: "00"
   ioc: CYP
@@ -1297,6 +1404,7 @@ CY:
   region: Asia
   subregion: "Western Asia"
   un_locode: CY
+  number_country_skype_code: "196+357"
 CZ: 
   address_format: |-
       {{recipient}}
@@ -1306,6 +1414,7 @@ CZ:
   alpha2: CZ
   alpha3: CZE
   country_code: "420"
+  country_skype_code: "+420"
   currency: CZK
   international_prefix: "00"
   ioc: CZE
@@ -1326,6 +1435,7 @@ CZ:
   region: Europe
   subregion: "Eastern Europe"
   un_locode: CZ
+  number_country_skype_code: "203+420"
 DE: 
   address_format: |-
       {{recipient}}
@@ -1335,6 +1445,7 @@ DE:
   alpha2: DE
   alpha3: DEU
   country_code: "49"
+  country_skype_code: "+49"
   currency: EUR
   international_prefix: "00"
   ioc: GER
@@ -1360,10 +1471,12 @@ DE:
   region: Europe
   subregion: "Western Europe"
   un_locode: DE
+  number_country_skype_code: "276+49"
 DJ: 
   alpha2: DJ
   alpha3: DJI
   country_code: "253"
+  country_skype_code: "+253"
   currency: DJF
   international_prefix: "00"
   ioc: DJI
@@ -1381,6 +1494,7 @@ DJ:
   region: Africa
   subregion: "Eastern Africa"
   un_locode: DJ
+  number_country_skype_code: "262+253"
 DK: 
   address_format: |-
       {{recipient}}
@@ -1391,6 +1505,7 @@ DK:
   alpha2: DK
   alpha3: DNK
   country_code: "45"
+  country_skype_code: "+45"
   currency: DKK
   international_prefix: "00"
   ioc: DEN
@@ -1411,10 +1526,12 @@ DK:
   region: Europe
   subregion: "Northern Europe"
   un_locode: DK
+  number_country_skype_code: "208+45"
 DM: 
   alpha2: DM
   alpha3: DMA
   country_code: "1"
+  country_skype_code: "+1767"
   currency: XCD
   international_prefix: "011"
   ioc: DMA
@@ -1432,10 +1549,12 @@ DM:
   region: Americas
   subregion: Caribbean
   un_locode: DM
+  number_country_skype_code: "212+1767"
 DO: 
   alpha2: DO
   alpha3: DOM
   country_code: "1"
+  country_skype_code: "+1809"
   currency: DOP
   international_prefix: "011"
   ioc: DOM
@@ -1456,10 +1575,12 @@ DO:
   region: Americas
   subregion: Caribbean
   un_locode: DO
+  number_country_skype_code: "214+1809"
 DZ: 
   alpha2: DZ
   alpha3: DZA
   country_code: "213"
+  country_skype_code: "+213"
   currency: DZD
   international_prefix: "00"
   ioc: ALG
@@ -1480,10 +1601,12 @@ DZ:
   region: Africa
   subregion: "Northern Africa"
   un_locode: DZ
+  number_country_skype_code: "012+213"
 EC: 
   alpha2: EC
   alpha3: ECU
   country_code: "593"
+  country_skype_code: "+593"
   currency: USD
   international_prefix: "00"
   ioc: ECU
@@ -1503,10 +1626,12 @@ EC:
   region: Americas
   subregion: "South America"
   un_locode: EC
+  number_country_skype_code: "218+593"
 EE: 
   alpha2: EE
   alpha3: EST
   country_code: "372"
+  country_skype_code: "+372"
   currency: EEK
   international_prefix: "00"
   ioc: EST
@@ -1527,6 +1652,7 @@ EE:
   region: Europe
   subregion: "Northern Europe"
   un_locode: EE
+  number_country_skype_code: "233+372"
 EG: 
   address_format: |-
       {{recipient}}
@@ -1536,6 +1662,7 @@ EG:
   alpha2: EG
   alpha3: EGY
   country_code: "20"
+  country_skype_code: "+20"
   currency: EGP
   international_prefix: "00"
   ioc: EGY
@@ -1556,10 +1683,12 @@ EG:
   region: Africa
   subregion: "Northern Africa"
   un_locode: EG
+  number_country_skype_code: "818+20"
 EH: 
   alpha2: EH
   alpha3: ESH
   country_code: "212"
+  country_skype_code: "+212"
   currency: MAD
   international_prefix: ""
   ioc: 
@@ -1578,10 +1707,12 @@ EH:
   region: Africa
   subregion: "Northern Africa"
   un_locode: EH
+  number_country_skype_code: "732+212"
 ER: 
   alpha2: ER
   alpha3: ERI
   country_code: "291"
+  country_skype_code: "+291"
   currency: ETB
   international_prefix: "00"
   ioc: ERI
@@ -1600,6 +1731,7 @@ ER:
   region: Africa
   subregion: "Eastern Africa"
   un_locode: ER
+  number_country_skype_code: "232+291"
 ES: 
   address_format: |-
       {{recipient}}
@@ -1609,6 +1741,7 @@ ES:
   alpha2: ES
   alpha3: ESP
   country_code: "34"
+  country_skype_code: "+34"
   currency: EUR
   international_prefix: "00"
   ioc: ESP
@@ -1629,10 +1762,12 @@ ES:
   region: Europe
   subregion: "Southern Europe"
   un_locode: ES
+  number_country_skype_code: "724+34"
 ET: 
   alpha2: ET
   alpha3: ETH
   country_code: "251"
+  country_skype_code: "+251"
   currency: ETB
   international_prefix: "00"
   ioc: ETH
@@ -1653,6 +1788,7 @@ ET:
   region: Africa
   subregion: "Eastern Africa"
   un_locode: ET
+  number_country_skype_code: "231+251"
 FI: 
   address_format: |-
       {{recipient}}
@@ -1662,6 +1798,7 @@ FI:
   alpha2: FI
   alpha3: FIN
   country_code: "358"
+  country_skype_code: "+358"
   currency: EUR
   international_prefix: "00"
   ioc: 
@@ -1682,10 +1819,12 @@ FI:
   region: Europe
   subregion: "Northern Europe"
   un_locode: 
+  number_country_skype_code: "246+358"
 FJ: 
   alpha2: FJ
   alpha3: FJI
   country_code: "679"
+  country_skype_code: "+679"
   currency: USD
   international_prefix: "00"
   ioc: FIJ
@@ -1705,10 +1844,12 @@ FJ:
   region: Oceania
   subregion: Melanesia
   un_locode: FJ
+  number_country_skype_code: "242+679"
 FK: 
   alpha2: FK
   alpha3: FLK
   country_code: "500"
+  country_skype_code: "+500"
   currency: FKP
   international_prefix: "00"
   ioc: 
@@ -1729,10 +1870,12 @@ FK:
   region: Americas
   subregion: "South America"
   un_locode: FK
+  number_country_skype_code: "238+500"
 FM: 
   alpha2: FM
   alpha3: FSM
   country_code: "691"
+  country_skype_code: "+691"
   currency: USD
   international_prefix: "011"
   ioc: FSM
@@ -1753,10 +1896,12 @@ FM:
   region: Oceania
   subregion: Micronesia
   un_locode: FM
+  number_country_skype_code: "583+691"
 FO: 
   alpha2: FO
   alpha3: FRO
   country_code: "298"
+  country_skype_code: "+298"
   currency: DKK
   international_prefix: "00"
   ioc: FRO
@@ -1777,6 +1922,7 @@ FO:
   region: Europe
   subregion: "Northern Europe"
   un_locode: FO
+  number_country_skype_code: "234+298"
 FR: 
   address_format: |-
       {{recipient}}
@@ -1786,6 +1932,7 @@ FR:
   alpha2: FR
   alpha3: FRA
   country_code: "33"
+  country_skype_code: "+33"
   currency: EUR
   international_prefix: "00"
   ioc: FRA
@@ -1807,10 +1954,12 @@ FR:
   region: Europe
   subregion: "Western Europe"
   un_locode: FR
+  number_country_skype_code: "250+33"
 GA: 
   alpha2: GA
   alpha3: GAB
   country_code: "241"
+  country_skype_code: "+241"
   currency: XAF
   international_prefix: "00"
   ioc: GAB
@@ -1832,6 +1981,7 @@ GA:
   region: Africa
   subregion: "Middle Africa"
   un_locode: GA
+  number_country_skype_code: "266+241"
 GB: 
   address_format: |-
       {{recipient}}
@@ -1843,6 +1993,7 @@ GB:
   alpha2: GB
   alpha3: GBR
   country_code: "44"
+  country_skype_code: "+44"
   currency: GBP
   international_prefix: "00"
   ioc: 
@@ -1864,10 +2015,12 @@ GB:
   region: Europe
   subregion: "Northern Europe"
   un_locode: 
+  number_country_skype_code: "826+44"
 GD: 
   alpha2: GD
   alpha3: GRD
   country_code: "1"
+  country_skype_code: "+1473"
   currency: XCD
   international_prefix: "011"
   ioc: GRN
@@ -1885,10 +2038,12 @@ GD:
   region: Americas
   subregion: Caribbean
   un_locode: GD
+  number_country_skype_code: "308+1473"
 GE: 
   alpha2: GE
   alpha3: GEO
   country_code: "995"
+  country_skype_code: "+995"
   currency: GEL
   international_prefix: "810"
   ioc: GEO
@@ -1908,10 +2063,12 @@ GE:
   region: Asia
   subregion: "Western Asia"
   un_locode: GE
+  number_country_skype_code: "268+995"
 GF: 
   alpha2: GF
   alpha3: GUF
   country_code: "594"
+  country_skype_code: "+594"
   currency: EUR
   international_prefix: "00"
   ioc: 
@@ -1932,10 +2089,12 @@ GF:
   region: Americas
   subregion: "South America"
   un_locode: GF
+  number_country_skype_code: "254+594"
 GG: 
   alpha2: GG
   alpha3: GGY
   country_code: "44"
+  country_skype_code: "+44"
   currency: GGP
   international_prefix: ""
   ioc: 
@@ -1954,10 +2113,12 @@ GG:
   region: Europe
   subregion: "Northern Europe"
   un_locode: 
+  number_country_skype_code: "831+44"
 GH: 
   alpha2: GH
   alpha3: GHA
   country_code: "233"
+  country_skype_code: "+233"
   currency: GHS
   international_prefix: "00"
   ioc: GHA
@@ -1978,10 +2139,12 @@ GH:
   region: Africa
   subregion: "Western Africa"
   un_locode: GH
+  number_country_skype_code: "288+233"
 GI: 
   alpha2: GI
   alpha3: GIB
   country_code: "350"
+  country_skype_code: "+350"
   currency: GIP
   international_prefix: "00"
   ioc: 
@@ -1999,6 +2162,7 @@ GI:
   region: Europe
   subregion: "Southern Europe"
   un_locode: GI
+  number_country_skype_code: "292+350"
 GL: 
   address_format: |-
       {{recipient}}
@@ -2008,6 +2172,7 @@ GL:
   alpha2: GL
   alpha3: GRL
   country_code: "299"
+  country_skype_code: "+299"
   currency: DKK
   international_prefix: 009
   ioc: 
@@ -2028,10 +2193,12 @@ GL:
   region: Americas
   subregion: "Northern America"
   un_locode: GL
+  number_country_skype_code: "304+299"
 GM: 
   alpha2: GM
   alpha3: GMB
   country_code: "220"
+  country_skype_code: "+220"
   currency: GMD
   international_prefix: "00"
   ioc: GAM
@@ -2049,10 +2216,12 @@ GM:
   region: Africa
   subregion: "Western Africa"
   un_locode: GM
+  number_country_skype_code: "270+220"
 GN: 
   alpha2: GN
   alpha3: GIN
   country_code: "224"
+  country_skype_code: "+224"
   currency: GNF
   international_prefix: "00"
   ioc: GUI
@@ -2073,10 +2242,12 @@ GN:
   region: Africa
   subregion: "Western Africa"
   un_locode: GN
+  number_country_skype_code: "324+224"
 GP: 
   alpha2: GP
   alpha3: GLP
   country_code: "590"
+  country_skype_code: "+590"
   currency: EUR
   international_prefix: "00"
   ioc: 
@@ -2095,10 +2266,12 @@ GP:
   region: Americas
   subregion: Caribbean
   un_locode: GP
+  number_country_skype_code: "312+590"
 GQ: 
   alpha2: GQ
   alpha3: GNQ
   country_code: "240"
+  country_skype_code: "+240"
   currency: ~
   international_prefix: "00"
   ioc: GEQ
@@ -2119,6 +2292,7 @@ GQ:
   region: Africa
   subregion: "Middle Africa"
   un_locode: GQ
+  number_country_skype_code: "226+240"
 GR: 
   address_format: |-
       {{recipient}}
@@ -2128,6 +2302,7 @@ GR:
   alpha2: GR
   alpha3: GRC
   country_code: "30"
+  country_skype_code: "+30"
   currency: EUR
   international_prefix: "00"
   ioc: GRE
@@ -2148,10 +2323,12 @@ GR:
   region: Europe
   subregion: "Southern Europe"
   un_locode: GR
+  number_country_skype_code: "300+30"
 GS: 
   alpha2: GS
   alpha3: SGS
   country_code: "500"
+  country_skype_code: "+500"
   currency: ~
   international_prefix: ""
   ioc: 
@@ -2167,10 +2344,12 @@ GS:
   region: Americas
   subregion: "South America"
   un_locode: GS
+  number_country_skype_code: "239+500"
 GT: 
   alpha2: GT
   alpha3: GTM
   country_code: "502"
+  country_skype_code: "+502"
   currency: GTQ
   international_prefix: "00"
   ioc: GUA
@@ -2188,10 +2367,12 @@ GT:
   region: Americas
   subregion: "Central America"
   un_locode: GT
+  number_country_skype_code: "320+502"
 GU: 
   alpha2: GU
   alpha3: GUM
   country_code: "1"
+  country_skype_code: "+1671"
   currency: USD
   international_prefix: "011"
   ioc: GUM
@@ -2209,10 +2390,12 @@ GU:
   region: Oceania
   subregion: Micronesia
   un_locode: GU
+  number_country_skype_code: "316+1671"
 GW: 
   alpha2: GW
   alpha3: GNB
   country_code: "245"
+  country_skype_code: "+245"
   currency: XOF
   international_prefix: "00"
   ioc: GBS
@@ -2231,10 +2414,12 @@ GW:
   region: Africa
   subregion: "Western Africa"
   un_locode: GW
+  number_country_skype_code: "624+245"
 GY: 
   alpha2: GY
   alpha3: GUY
   country_code: "592"
+  country_skype_code: "+592"
   currency: GYD
   international_prefix: "00"
   ioc: GUY
@@ -2253,6 +2438,7 @@ GY:
   region: Americas
   subregion: "South America"
   un_locode: GY
+  number_country_skype_code: "328+592"
 HK: 
   address_format: |-
       {{recipient}}
@@ -2262,6 +2448,7 @@ HK:
   alpha2: HK
   alpha3: HKG
   country_code: "852"
+  country_skype_code: "+852"
   currency: HKD
   international_prefix: "001"
   ioc: HKG
@@ -2279,10 +2466,12 @@ HK:
   region: Asia
   subregion: "Eastern Asia"
   un_locode: HK
+  number_country_skype_code: "344+852"
 HM: 
   alpha2: HM
   alpha3: HMD
   country_code: ""
+  country_skype_code: "+672"
   currency: AUD
   international_prefix: ""
   ioc: 
@@ -2298,10 +2487,12 @@ HM:
   region: ""
   subregion: ""
   un_locode: HM
+  number_country_skype_code: "334+672"
 HN: 
   alpha2: HN
   alpha3: HND
   country_code: "504"
+  country_skype_code: "+504"
   currency: HNL
   international_prefix: "00"
   ioc: HON
@@ -2320,6 +2511,7 @@ HN:
   region: Americas
   subregion: "Central America"
   un_locode: HN
+  number_country_skype_code: "340+504"
 HR: 
   address_format: |-
       {{recipient}}
@@ -2329,6 +2521,7 @@ HR:
   alpha2: HR
   alpha3: HRV
   country_code: "385"
+  country_skype_code: "+385"
   currency: HRK
   international_prefix: "00"
   ioc: CRO
@@ -2349,10 +2542,12 @@ HR:
   region: Europe
   subregion: "Southern Europe"
   un_locode: HR
+  number_country_skype_code: "191+385"
 HT: 
   alpha2: HT
   alpha3: HTI
   country_code: "509"
+  country_skype_code: "+509"
   currency: USD
   international_prefix: "00"
   ioc: HAI
@@ -2370,6 +2565,7 @@ HT:
   region: Americas
   subregion: Caribbean
   un_locode: HT
+  number_country_skype_code: "332+509"
 HU: 
   address_format: |-
       {{recipient}}
@@ -2380,6 +2576,7 @@ HU:
   alpha2: HU
   alpha3: HUN
   country_code: "36"
+  country_skype_code: "+36"
   currency: HUF
   international_prefix: "00"
   ioc: HUN
@@ -2401,6 +2598,7 @@ HU:
   region: Europe
   subregion: "Eastern Europe"
   un_locode: HU
+  number_country_skype_code: "348+36"
 ID: 
   address_format: |-
       {{recipient}}
@@ -2411,6 +2609,7 @@ ID:
   alpha2: ID
   alpha3: IDN
   country_code: "62"
+  country_skype_code: "+62"
   currency: IDR
   international_prefix: "001"
   ioc: INA
@@ -2433,6 +2632,7 @@ ID:
   region: Asia
   subregion: "South-Eastern Asia"
   un_locode: ID
+  number_country_skype_code: "360+62"
 IE: 
   address_format: |-
       {{recipient}}
@@ -2442,6 +2642,7 @@ IE:
   alpha2: IE
   alpha3: IRL
   country_code: "353"
+  country_skype_code: "+353"
   currency: EUR
   international_prefix: "00"
   ioc: IRL
@@ -2462,6 +2663,7 @@ IE:
   region: Europe
   subregion: "Northern Europe"
   un_locode: IE
+  number_country_skype_code: "372+353"
 IL: 
   address_format: |-
       {{recipient}}
@@ -2471,6 +2673,7 @@ IL:
   alpha2: IL
   alpha3: ISR
   country_code: "972"
+  country_skype_code: "+972"
   currency: ILS
   international_prefix: "00"
   ioc: ISR
@@ -2491,10 +2694,12 @@ IL:
   region: Asia
   subregion: "Western Asia"
   un_locode: IL
+  number_country_skype_code: "376+972"
 IM: 
   alpha2: IM
   alpha3: IMN
   country_code: "44"
+  country_skype_code: "+44"
   currency: IMP
   international_prefix: ""
   ioc: 
@@ -2513,6 +2718,7 @@ IM:
   region: Europe
   subregion: "Northern Europe"
   un_locode: 
+  number_country_skype_code: "833+44"
 IN: 
   address_format: |-
       {{recipient}}
@@ -2523,6 +2729,7 @@ IN:
   alpha2: IN
   alpha3: IND
   country_code: "91"
+  country_skype_code: "+91"
   currency: INR
   international_prefix: "00"
   ioc: IND
@@ -2542,10 +2749,12 @@ IN:
   region: Asia
   subregion: "Southern Asia"
   un_locode: IN
+  number_country_skype_code: "356+91"
 IO: 
   alpha2: IO
   alpha3: IOT
   country_code: "246"
+  country_skype_code: "+246"
   currency: USD
   international_prefix: ""
   ioc: 
@@ -2561,10 +2770,12 @@ IO:
   region: Africa
   subregion: "Eastern Africa"
   un_locode: IO
+  number_country_skype_code: "086+246"
 IQ: 
   alpha2: IQ
   alpha3: IRQ
   country_code: "964"
+  country_skype_code: "+964"
   currency: IQD
   international_prefix: "00"
   ioc: IRQ
@@ -2585,10 +2796,12 @@ IQ:
   region: Asia
   subregion: "Western Asia"
   un_locode: IQ
+  number_country_skype_code: "368+964"
 IR: 
   alpha2: IR
   alpha3: IRN
   country_code: "98"
+  country_skype_code: "+98"
   currency: IRR
   international_prefix: "00"
   ioc: IRI
@@ -2607,6 +2820,7 @@ IR:
   region: Asia
   subregion: "Southern Asia"
   un_locode: IR
+  number_country_skype_code: "364+98"
 IS: 
   address_format: |-
       {{recipient}}
@@ -2616,6 +2830,7 @@ IS:
   alpha2: IS
   alpha3: ISL
   country_code: "354"
+  country_skype_code: "+354"
   currency: ISK
   international_prefix: "00"
   ioc: ISL
@@ -2638,6 +2853,7 @@ IS:
   region: Europe
   subregion: "Northern Europe"
   un_locode: IS
+  number_country_skype_code: "352+354"
 IT: 
   address_format: |-
       {{recipient}}
@@ -2647,6 +2863,7 @@ IT:
   alpha2: IT
   alpha3: ITA
   country_code: "39"
+  country_skype_code: "+39"
   currency: EUR
   international_prefix: "00"
   ioc: ITA
@@ -2667,10 +2884,12 @@ IT:
   region: Europe
   subregion: "Southern Europe"
   un_locode: IT
+  number_country_skype_code: "380+39"
 JE: 
   alpha2: JE
   alpha3: JEY
   country_code: "44"
+  country_skype_code: "+44"
   currency: JEP
   international_prefix: ""
   ioc: 
@@ -2686,10 +2905,12 @@ JE:
   region: Europe
   subregion: "Northern Europe"
   un_locode: 
+  number_country_skype_code: "832+44"
 JM: 
   alpha2: JM
   alpha3: JAM
   country_code: "1"
+  country_skype_code: "+1876"
   currency: JMD
   international_prefix: "011"
   ioc: JAM
@@ -2709,6 +2930,7 @@ JM:
   region: Americas
   subregion: Caribbean
   un_locode: JM
+  number_country_skype_code: "388+1876"
 JO: 
   address_format: |-
       {{recipient}}
@@ -2718,6 +2940,7 @@ JO:
   alpha2: JO
   alpha3: JOR
   country_code: "962"
+  country_skype_code: "+962"
   currency: JOD
   international_prefix: "00"
   ioc: JOR
@@ -2739,6 +2962,7 @@ JO:
   region: Asia
   subregion: "Western Asia"
   un_locode: JO
+  number_country_skype_code: "400+962"
 JP: 
   address_format: |-
       〒{{postalcode}}
@@ -2748,6 +2972,7 @@ JP:
   alpha2: JP
   alpha3: JPN
   country_code: "81"
+  country_skype_code: "+81"
   currency: JPY
   international_prefix: "010"
   ioc: JPN
@@ -2769,10 +2994,12 @@ JP:
   region: Asia
   subregion: "Eastern Asia"
   un_locode: JP
+  number_country_skype_code: "392+81"
 KE: 
   alpha2: KE
   alpha3: KEN
   country_code: "254"
+  country_skype_code: "+254"
   currency: KES
   international_prefix: "000"
   ioc: KEN
@@ -2793,10 +3020,12 @@ KE:
   region: Africa
   subregion: "Eastern Africa"
   un_locode: KE
+  number_country_skype_code: "404+254"
 KG: 
   alpha2: KG
   alpha3: KGZ
   country_code: "996"
+  country_skype_code: "+996"
   currency: KGS
   international_prefix: "00"
   ioc: KGZ
@@ -2817,10 +3046,12 @@ KG:
   region: Asia
   subregion: "Central Asia"
   un_locode: KG
+  number_country_skype_code: "417+996"
 KH: 
   alpha2: KH
   alpha3: KHM
   country_code: "855"
+  country_skype_code: "+855"
   currency: KHR
   international_prefix: "00"
   ioc: CAM
@@ -2841,10 +3072,12 @@ KH:
   region: Asia
   subregion: "South-Eastern Asia"
   un_locode: KH
+  number_country_skype_code: "116+855"
 KI: 
   alpha2: KI
   alpha3: KIR
   country_code: "686"
+  country_skype_code: "+686"
   currency: AUD
   international_prefix: "00"
   ioc: KIR
@@ -2865,10 +3098,12 @@ KI:
   region: Oceania
   subregion: Micronesia
   un_locode: KI
+  number_country_skype_code: "296+686"
 KM: 
   alpha2: KM
   alpha3: COM
   country_code: "269"
+  country_skype_code: "+269"
   currency: KMF
   international_prefix: "00"
   ioc: COM
@@ -2888,10 +3123,12 @@ KM:
   region: Africa
   subregion: "Eastern Africa"
   un_locode: KM
+  number_country_skype_code: "174+269"
 KN: 
   alpha2: KN
   alpha3: KNA
   country_code: "1"
+  country_skype_code: "+1869"
   currency: XCD
   international_prefix: "011"
   ioc: SKN
@@ -2911,10 +3148,12 @@ KN:
   region: Americas
   subregion: Caribbean
   un_locode: KN
+  number_country_skype_code: "659+1869"
 KP: 
   alpha2: KP
   alpha3: PRK
   country_code: "850"
+  country_skype_code: "+850"
   currency: KPW
   international_prefix: "00"
   ioc: PRK
@@ -2936,6 +3175,7 @@ KP:
   region: Asia
   subregion: "Eastern Asia"
   un_locode: KP
+  number_country_skype_code: "408+850"
 KR: 
   address_format: |-
       {{recipient}}
@@ -2946,6 +3186,7 @@ KR:
   alpha2: KR
   alpha3: KOR
   country_code: "82"
+  country_skype_code: "+82"
   currency: KRW
   international_prefix: "001"
   ioc: KOR
@@ -2967,6 +3208,7 @@ KR:
   region: Asia
   subregion: "Eastern Asia"
   un_locode: KR
+  number_country_skype_code: "410+82"
 KW: 
   address_format: |-
       {{recipient}}
@@ -2977,6 +3219,7 @@ KW:
   alpha2: KW
   alpha3: KWT
   country_code: "965"
+  country_skype_code: "+965"
   currency: KWD
   international_prefix: "00"
   ioc: KUW
@@ -2995,10 +3238,12 @@ KW:
   region: Asia
   subregion: "Western Asia"
   un_locode: KW
+  number_country_skype_code: "414+965"
 KY: 
   alpha2: KY
   alpha3: CYM
   country_code: "1"
+  country_skype_code: "+1345"
   currency: KYD
   international_prefix: "011"
   ioc: CAY
@@ -3019,10 +3264,12 @@ KY:
   region: Americas
   subregion: Caribbean
   un_locode: KY
+  number_country_skype_code: "136+1345"
 KZ: 
   alpha2: KZ
   alpha3: KAZ
   country_code: "7"
+  country_skype_code: "+7"
   currency: KZT
   international_prefix: "810"
   ioc: KAZ
@@ -3043,10 +3290,12 @@ KZ:
   region: Asia
   subregion: "Central Asia"
   un_locode: KZ
+  number_country_skype_code: "398+7"
 LA: 
   alpha2: LA
   alpha3: LAO
   country_code: "856"
+  country_skype_code: "+856"
   currency: LAK
   international_prefix: "00"
   ioc: LAO
@@ -3067,6 +3316,7 @@ LA:
   region: Asia
   subregion: "South-Eastern Asia"
   un_locode: LA
+  number_country_skype_code: "418+856"
 LB: 
   address_format: |-
       {{recipient}}
@@ -3076,6 +3326,7 @@ LB:
   alpha2: LB
   alpha3: LBN
   country_code: "961"
+  country_skype_code: "+961"
   currency: LBP
   international_prefix: "00"
   ioc: LIB
@@ -3096,10 +3347,12 @@ LB:
   region: Asia
   subregion: "Western Asia"
   un_locode: LB
+  number_country_skype_code: "422+961"
 LC: 
   alpha2: LC
   alpha3: LCA
   country_code: "1"
+  country_skype_code: "+1758"
   currency: XCD
   international_prefix: "011"
   ioc: LCA
@@ -3119,10 +3372,12 @@ LC:
   region: Americas
   subregion: Caribbean
   un_locode: LC
+  number_country_skype_code: "662+1758"
 LI: 
   alpha2: LI
   alpha3: LIE
   country_code: "423"
+  country_skype_code: "+423"
   currency: CHF
   international_prefix: "00"
   ioc: LIE
@@ -3140,10 +3395,12 @@ LI:
   region: Europe
   subregion: "Western Europe"
   un_locode: LI
+  number_country_skype_code: "438+423"
 LK: 
   alpha2: LK
   alpha3: LKA
   country_code: "94"
+  country_skype_code: "+94"
   currency: LKR
   international_prefix: "00"
   ioc: SRI
@@ -3161,10 +3418,12 @@ LK:
   region: Asia
   subregion: "Southern Asia"
   un_locode: LK
+  number_country_skype_code: "144+94"
 LR: 
   alpha2: LR
   alpha3: LBR
   country_code: "231"
+  country_skype_code: "+231"
   currency: LRD
   international_prefix: "00"
   ioc: LBR
@@ -3187,11 +3446,13 @@ LR:
   region: Africa
   subregion: "Western Africa"
   un_locode: LR
+  number_country_skype_code: "430+231"
 LS: 
   alpha2: LS
   alpha3: LSO
   alt_currency: ZAR
   country_code: "266"
+  country_skype_code: "+266"
   currency: LSL
   international_prefix: "00"
   ioc: LES
@@ -3212,10 +3473,12 @@ LS:
   region: Africa
   subregion: "Southern Africa"
   un_locode: LS
+  number_country_skype_code: "426+266"
 LT: 
   alpha2: LT
   alpha3: LTU
   country_code: "370"
+  country_skype_code: "+370"
   currency: LTL
   international_prefix: "00"
   ioc: LTU
@@ -3236,6 +3499,7 @@ LT:
   region: Europe
   subregion: "Northern Europe"
   un_locode: LT
+  number_country_skype_code: "440+370"
 LU: 
   address_format: |-
       {{recipient}}
@@ -3245,6 +3509,7 @@ LU:
   alpha2: LU
   alpha3: LUX
   country_code: "352"
+  country_skype_code: "+352"
   currency: EUR
   international_prefix: "00"
   ioc: LUX
@@ -3265,10 +3530,12 @@ LU:
   region: Europe
   subregion: "Western Europe"
   un_locode: LU
+  number_country_skype_code: "442+352"
 LV: 
   alpha2: LV
   alpha3: LVA
   country_code: "371"
+  country_skype_code: "+371"
   currency: LVL
   international_prefix: "00"
   ioc: LAT
@@ -3289,10 +3556,12 @@ LV:
   region: Europe
   subregion: "Northern Europe"
   un_locode: LV
+  number_country_skype_code: "428+371"
 LY: 
   alpha2: LY
   alpha3: LBY
   country_code: "218"
+  country_skype_code: "+218"
   currency: LYD
   international_prefix: "00"
   ioc: LBA
@@ -3314,10 +3583,12 @@ LY:
   region: Africa
   subregion: "Northern Africa"
   un_locode: LY
+  number_country_skype_code: "434+218"
 MA: 
   alpha2: MA
   alpha3: MAR
   country_code: "212"
+  country_skype_code: "+212"
   currency: MAD
   international_prefix: "00"
   ioc: MAR
@@ -3338,10 +3609,12 @@ MA:
   region: Africa
   subregion: "Northern Africa"
   un_locode: MA
+  number_country_skype_code: "504+212"
 MC: 
   alpha2: MC
   alpha3: MCO
   country_code: "377"
+  country_skype_code: "+377"
   currency: EUR
   international_prefix: "00"
   ioc: MON
@@ -3361,10 +3634,12 @@ MC:
   region: Europe
   subregion: "Western Europe"
   un_locode: MC
+  number_country_skype_code: "492+377"
 MD: 
   alpha2: MD
   alpha3: MDA
   country_code: "373"
+  country_skype_code: "+373"
   currency: MDL
   international_prefix: "00"
   ioc: MDA
@@ -3386,10 +3661,12 @@ MD:
   region: Europe
   subregion: "Eastern Europe"
   un_locode: MD
+  number_country_skype_code: "498+373"
 ME: 
   alpha2: ME
   alpha3: MNE
   country_code: "382"
+  country_skype_code: "+382"
   currency: EUR
   international_prefix: "99"
   ioc: MNE
@@ -3408,10 +3685,12 @@ ME:
   region: Europe
   subregion: "Southern Europe"
   un_locode: ME
+  number_country_skype_code: "499+382"
 MF: 
   alpha2: MF
   alpha3: MAF
   country_code: "590"
+  country_skype_code: "+590"
   currency: EUR
   international_prefix: ""
   ioc: 
@@ -3427,10 +3706,12 @@ MF:
   region: Americas
   subregion: Caribbean
   un_locode: 
+  number_country_skype_code: "663+590"
 MG: 
   alpha2: MG
   alpha3: MDG
   country_code: "261"
+  country_skype_code: "+261"
   currency: ~
   international_prefix: "00"
   ioc: MAD
@@ -3450,10 +3731,12 @@ MG:
   region: Africa
   subregion: "Eastern Africa"
   un_locode: MG
+  number_country_skype_code: "450+261"
 MH: 
   alpha2: MH
   alpha3: MHL
   country_code: "692"
+  country_skype_code: "+692"
   currency: USD
   international_prefix: "00"
   ioc: MHL
@@ -3474,6 +3757,7 @@ MH:
   region: Oceania
   subregion: Micronesia
   un_locode: MH
+  number_country_skype_code: "584+692"
 MK: 
   address_format: |-
       {{recipient}}
@@ -3483,6 +3767,7 @@ MK:
   alpha2: MK
   alpha3: MKD
   country_code: "389"
+  country_skype_code: "+389"
   currency: ~
   international_prefix: "00"
   ioc: MKD
@@ -3504,10 +3789,12 @@ MK:
   region: Europe
   subregion: "Southern Europe"
   un_locode: MK
+  number_country_skype_code: "807+389"
 ML: 
   alpha2: ML
   alpha3: MLI
   country_code: "223"
+  country_skype_code: "+223"
   currency: XOF
   international_prefix: "00"
   ioc: MLI
@@ -3525,10 +3812,12 @@ ML:
   region: Africa
   subregion: "Western Africa"
   un_locode: ML
+  number_country_skype_code: "466+223"
 MM: 
   alpha2: MM
   alpha3: MMR
   country_code: "95"
+  country_skype_code: "+95"
   currency: MNK
   international_prefix: "00"
   ioc: MYA
@@ -3550,10 +3839,12 @@ MM:
   region: Asia
   subregion: "South-Eastern Asia"
   un_locode: MM
+  number_country_skype_code: "104+95"
 MN: 
   alpha2: MN
   alpha3: MNG
   country_code: "976"
+  country_skype_code: "+976"
   currency: MNT
   international_prefix: "001"
   ioc: MGL
@@ -3576,10 +3867,12 @@ MN:
   region: Asia
   subregion: "Eastern Asia"
   un_locode: MN
+  number_country_skype_code: "496+976"
 MO: 
   alpha2: MO
   alpha3: MAC
   country_code: "853"
+  country_skype_code: "+853"
   currency: ~
   international_prefix: "00"
   ioc: 
@@ -3597,10 +3890,12 @@ MO:
   region: Asia
   subregion: "Eastern Asia"
   un_locode: MO
+  number_country_skype_code: "446+853"
 MP: 
   alpha2: MP
   alpha3: MNP
   country_code: "1"
+  country_skype_code: "+1670"
   currency: USD
   international_prefix: "011"
   ioc: 
@@ -3621,10 +3916,12 @@ MP:
   region: Oceania
   subregion: Micronesia
   un_locode: MP
+  number_country_skype_code: "580+1670"
 MQ: 
   alpha2: MQ
   alpha3: MTQ
   country_code: "596"
+  country_skype_code: "+596"
   currency: EUR
   international_prefix: "00"
   ioc: 
@@ -3645,10 +3942,12 @@ MQ:
   region: Americas
   subregion: Caribbean
   un_locode: MQ
+  number_country_skype_code: "474+596"
 MR: 
   alpha2: MR
   alpha3: MRT
   country_code: "222"
+  country_skype_code: "+222"
   currency: MRO
   international_prefix: "00"
   ioc: MTN
@@ -3669,10 +3968,12 @@ MR:
   region: Africa
   subregion: "Western Africa"
   un_locode: MR
+  number_country_skype_code: "478+222"
 MS: 
   alpha2: MS
   alpha3: MSR
   country_code: "1"
+  country_skype_code: "+1664"
   currency: XCD
   international_prefix: "011"
   ioc: 
@@ -3693,10 +3994,12 @@ MS:
   region: Americas
   subregion: Caribbean
   un_locode: MS
+  number_country_skype_code: "500+1664"
 MT: 
   alpha2: MT
   alpha3: MLT
   country_code: "356"
+  country_skype_code: "+356"
   currency: EUR
   international_prefix: "00"
   ioc: MLT
@@ -3717,10 +4020,12 @@ MT:
   region: Europe
   subregion: "Southern Europe"
   un_locode: MT
+  number_country_skype_code: "470+356"
 MU: 
   alpha2: MU
   alpha3: MUS
   country_code: "230"
+  country_skype_code: "+230"
   currency: MUR
   international_prefix: "020"
   ioc: MRI
@@ -3741,10 +4046,12 @@ MU:
   region: Africa
   subregion: "Eastern Africa"
   un_locode: MU
+  number_country_skype_code: "480+230"
 MV: 
   alpha2: MV
   alpha3: MDV
   country_code: "960"
+  country_skype_code: "+960"
   currency: MVR
   international_prefix: "00"
   ioc: MDV
@@ -3764,10 +4071,12 @@ MV:
   region: Asia
   subregion: "Southern Asia"
   un_locode: MV
+  number_country_skype_code: "462+960"
 MW: 
   alpha2: MW
   alpha3: MWI
   country_code: "265"
+  country_skype_code: "+265"
   currency: MWK
   international_prefix: "00"
   ioc: MAW
@@ -3785,6 +4094,7 @@ MW:
   region: Africa
   subregion: "Eastern Africa"
   un_locode: MW
+  number_country_skype_code: "454+265"
 MX: 
   address_format: |-
       {{recipient}}
@@ -3794,6 +4104,7 @@ MX:
   alpha2: MX
   alpha3: MEX
   country_code: "52"
+  country_skype_code: "+52"
   currency: MXN
   international_prefix: "00"
   ioc: MEX
@@ -3816,10 +4127,12 @@ MX:
   region: Americas
   subregion: "Central America"
   un_locode: MX
+  number_country_skype_code: "484+52"
 MY: 
   alpha2: MY
   alpha3: MYS
   country_code: "60"
+  country_skype_code: "+60"
   currency: MYR
   international_prefix: "00"
   ioc: MAS
@@ -3840,10 +4153,12 @@ MY:
   region: Asia
   subregion: "South-Eastern Asia"
   un_locode: MY
+  number_country_skype_code: "458+60"
 MZ: 
   alpha2: MZ
   alpha3: MOZ
   country_code: "258"
+  country_skype_code: "+258"
   currency: MZN
   international_prefix: "00"
   ioc: MOZ
@@ -3865,11 +4180,13 @@ MZ:
   region: Africa
   subregion: "Eastern Africa"
   un_locode: MZ
+  number_country_skype_code: "508+258"
 NA: 
   alpha2: NA
   alpha3: NAM
   alt_currency: ZAR
   country_code: "264"
+  country_skype_code: "+264"
   currency: NAD
   international_prefix: "00"
   ioc: NAM
@@ -3891,10 +4208,12 @@ NA:
   region: Africa
   subregion: "Southern Africa"
   un_locode: NA
+  number_country_skype_code: "516+264"
 NC: 
   alpha2: NC
   alpha3: NCL
   country_code: "687"
+  country_skype_code: "+687"
   currency: XPF
   international_prefix: "00"
   ioc: 
@@ -3915,10 +4234,12 @@ NC:
   region: Oceania
   subregion: Melanesia
   un_locode: NC
+  number_country_skype_code: "540+687"
 NE: 
   alpha2: NE
   alpha3: NER
   country_code: "227"
+  country_skype_code: "+227"
   currency: XOF
   international_prefix: "00"
   ioc: NIG
@@ -3936,10 +4257,12 @@ NE:
   region: Africa
   subregion: "Western Africa"
   un_locode: NE
+  number_country_skype_code: "562+277"
 NF: 
   alpha2: NF
   alpha3: NFK
   country_code: "672"
+  country_skype_code: "+672"
   currency: AUD
   international_prefix: "00"
   ioc: 
@@ -3960,10 +4283,12 @@ NF:
   region: Oceania
   subregion: "Australia and New Zealand"
   un_locode: NF
+  number_country_skype_code: "574+672"
 NG: 
   alpha2: NG
   alpha3: NGA
   country_code: "234"
+  country_skype_code: "+234"
   currency: NGN
   international_prefix: 009
   ioc: NGR
@@ -3984,10 +4309,12 @@ NG:
   region: Africa
   subregion: "Western Africa"
   un_locode: NG
+  number_country_skype_code: "566+234"
 NI: 
   alpha2: NI
   alpha3: NIC
   country_code: "505"
+  country_skype_code: "+505"
   currency: NIO
   international_prefix: "00"
   ioc: NCA
@@ -4008,6 +4335,7 @@ NI:
   region: Americas
   subregion: "Central America"
   un_locode: NI
+  number_country_skype_code: "558+505"
 NL: 
   address_format: |-
       {{recipient}}
@@ -4017,6 +4345,7 @@ NL:
   alpha2: NL
   alpha3: NLD
   country_code: "31"
+  country_skype_code: "+31"
   currency: EUR
   international_prefix: "00"
   ioc: NED
@@ -4037,6 +4366,7 @@ NL:
   region: Europe
   subregion: "Western Europe"
   un_locode: NL
+  number_country_skype_code: "528+31"
 "NO": 
   address_format: |-
       {{recipient}}
@@ -4046,6 +4376,7 @@ NL:
   alpha2: "NO"
   alpha3: NOR
   country_code: "47"
+  country_skype_code: "+47"
   currency: NOK
   international_prefix: "00"
   ioc: NED
@@ -4066,10 +4397,12 @@ NL:
   region: Europe
   subregion: "Northern Europe"
   un_locode: NL
+  number_country_skype_code: "578+47"
 NP: 
   alpha2: NP
   alpha3: NPL
   country_code: "977"
+  country_skype_code: "+977"
   currency: NPR
   international_prefix: "00"
   ioc: NEP
@@ -4092,10 +4425,12 @@ NP:
   region: Asia
   subregion: "Southern Asia"
   un_locode: NP
+  number_country_skype_code: "524+977"
 NR: 
   alpha2: NR
   alpha3: NRU
   country_code: "674"
+  country_skype_code: "+674"
   currency: AUD
   international_prefix: "00"
   ioc: NRU
@@ -4116,10 +4451,12 @@ NR:
   region: Oceania
   subregion: Micronesia
   un_locode: NR
+  number_country_skype_code: "520+674"
 NU: 
   alpha2: NU
   alpha3: NIU
   country_code: "683"
+  country_skype_code: "+683"
   currency: ~
   international_prefix: "00"
   ioc: 
@@ -4137,6 +4474,7 @@ NU:
   region: Oceania
   subregion: Polynesia
   un_locode: NU
+  number_country_skype_code: "570+683"
 NZ: 
   address_format: |-
       {{recipient}}
@@ -4147,6 +4485,7 @@ NZ:
   alpha2: NZ
   alpha3: NZL
   country_code: "64"
+  country_skype_code: "+64"
   currency: NZD
   international_prefix: "00"
   ioc: NZL
@@ -4168,6 +4507,7 @@ NZ:
   region: Oceania
   subregion: "Australia and New Zealand"
   un_locode: NZ
+  number_country_skype_code: "554+64"
 OM: 
   address_format: |-
       {{recipient}}
@@ -4178,6 +4518,7 @@ OM:
   alpha2: OM
   alpha3: OMN
   country_code: "968"
+  country_skype_code: "+968"
   currency: OMR
   international_prefix: "00"
   ioc: OMA
@@ -4196,11 +4537,13 @@ OM:
   region: Asia
   subregion: "Western Asia"
   un_locode: OM
+  number_country_skype_code: "512+968"
 PA: 
   alpha2: PA
   alpha3: PAN
   alt_currency: USD
   country_code: "507"
+  country_skype_code: "+507"
   currency: PAB
   international_prefix: "00"
   ioc: PAN
@@ -4219,10 +4562,12 @@ PA:
   region: Americas
   subregion: "Central America"
   un_locode: PA
+  number_country_skype_code: "591+507"
 PE: 
   alpha2: PE
   alpha3: PER
   country_code: "51"
+  country_skype_code: "+51"
   currency: PEN
   international_prefix: "00"
   ioc: PER
@@ -4243,10 +4588,12 @@ PE:
   region: Americas
   subregion: "South America"
   un_locode: PE
+  number_country_skype_code: "604+51"
 PF: 
   alpha2: PF
   alpha3: PYF
   country_code: "689"
+  country_skype_code: "+689"
   currency: XPF
   international_prefix: "00"
   ioc: 
@@ -4267,10 +4614,12 @@ PF:
   region: Oceania
   subregion: Polynesia
   un_locode: PF
+  number_country_skype_code: "258+689"
 PG: 
   alpha2: PG
   alpha3: PNG
   country_code: "675"
+  country_skype_code: "+675"
   currency: PGK
   international_prefix: "05"
   ioc: PNG
@@ -4291,6 +4640,7 @@ PG:
   region: Oceania
   subregion: Melanesia
   un_locode: PG
+  number_country_skype_code: "598+675"
 PH: 
   address_format: |-
       {{recipient}}
@@ -4300,6 +4650,7 @@ PH:
   alpha2: PH
   alpha3: PHL
   country_code: "63"
+  country_skype_code: "+63"
   currency: PHP
   international_prefix: "00"
   ioc: PHI
@@ -4321,10 +4672,12 @@ PH:
   region: Asia
   subregion: "South-Eastern Asia"
   un_locode: PH
+  number_country_skype_code: "608+63"
 PK: 
   alpha2: PK
   alpha3: PAK
   country_code: "92"
+  country_skype_code: "+92"
   currency: PKR
   international_prefix: "00"
   ioc: PAK
@@ -4344,6 +4697,7 @@ PK:
   region: Asia
   subregion: "Southern Asia"
   un_locode: PK
+  number_country_skype_code: "586+92"
 PL: 
   address_format: |-
       {{recipient}}
@@ -4354,6 +4708,7 @@ PL:
   alpha2: PL
   alpha3: POL
   country_code: "48"
+  country_skype_code: "+48"
   currency: PLN
   international_prefix: "00"
   ioc: POL
@@ -4374,10 +4729,12 @@ PL:
   region: Europe
   subregion: "Eastern Europe"
   un_locode: PL
+  number_country_skype_code: "616+48"
 PM: 
   alpha2: PM
   alpha3: SPM
   country_code: "508"
+  country_skype_code: "+508"
   currency: EUR
   international_prefix: "00"
   ioc: 
@@ -4398,10 +4755,12 @@ PM:
   region: Americas
   subregion: "Northern America"
   un_locode: PM
+  number_country_skype_code: "666+508"
 PN: 
   alpha2: PN
   alpha3: PCN
   country_code: ""
+  country_skype_code: "+872"
   currency: NZD
   international_prefix: "00"
   ioc: 
@@ -4418,10 +4777,12 @@ PN:
   region: Oceania
   subregion: Polynesia
   un_locode: PN
+  number_country_skype_code: "612+872"
 PR: 
   alpha2: PR
   alpha3: PRI
   country_code: "1"
+  country_skype_code: "+1787"
   currency: USD
   international_prefix: "011"
   ioc: PUR
@@ -4439,10 +4800,12 @@ PR:
   region: Americas
   subregion: Caribbean
   un_locode: PR
+  number_country_skype_code: "630+1787"
 PS: 
   alpha2: PS
   alpha3: PSE
   country_code: "970"
+  country_skype_code: "+970"
   currency: ~
   international_prefix: "00"
   ioc: PLE
@@ -4464,6 +4827,7 @@ PS:
   region: Asia
   subregion: "Western Asia"
   un_locode: 
+  number_country_skype_code: "275+970"
 PT: 
   address_format: |-
       {{recipient}}
@@ -4473,6 +4837,7 @@ PT:
   alpha2: PT
   alpha3: PRT
   country_code: "351"
+  country_skype_code: "+351"
   currency: EUR
   international_prefix: "00"
   ioc: POR
@@ -4490,10 +4855,12 @@ PT:
   region: Europe
   subregion: "Southern Europe"
   un_locode: PT
+  number_country_skype_code: "620+351"
 PW: 
   alpha2: PW
   alpha3: PLW
   country_code: "680"
+  country_skype_code: "+680"
   currency: USD
   international_prefix: "00"
   ioc: PLW
@@ -4511,10 +4878,12 @@ PW:
   region: Oceania
   subregion: Micronesia
   un_locode: PW
+  number_country_skype_code: "585+680"
 PY: 
   alpha2: PY
   alpha3: PRY
   country_code: "595"
+  country_skype_code: "+595"
   currency: PYG
   international_prefix: "002"
   ioc: PAR
@@ -4532,6 +4901,7 @@ PY:
   region: Americas
   subregion: "South America"
   un_locode: PY
+  number_country_skype_code: "600+595"
 QA: 
   address_format: |-
       {{recipient}}
@@ -4541,6 +4911,7 @@ QA:
   alpha2: QA
   alpha3: QAT
   country_code: "974"
+  country_skype_code: "+974"
   currency: QAR
   international_prefix: "00"
   ioc: QAT
@@ -4559,10 +4930,12 @@ QA:
   region: Asia
   subregion: "Western Asia"
   un_locode: QA
+  number_country_skype_code: "634+974"
 RE: 
   alpha2: RE
   alpha3: REU
   country_code: "262"
+  country_skype_code: "+262"
   currency: EUR
   international_prefix: "00"
   ioc: 
@@ -4583,6 +4956,7 @@ RE:
   region: Africa
   subregion: "Eastern Africa"
   un_locode: RE
+  number_country_skype_code: "638+262"
 RO: 
   address_format: |-
       {{recipient}}
@@ -4592,6 +4966,7 @@ RO:
   alpha2: RO
   alpha3: ROU
   country_code: "40"
+  country_skype_code: "+40"
   currency: RON
   international_prefix: "00"
   ioc: ROU
@@ -4612,10 +4987,12 @@ RO:
   region: Europe
   subregion: "Eastern Europe"
   un_locode: RO
+  number_country_skype_code: "642+40"
 RS: 
   alpha2: RS
   alpha3: SRB
   country_code: "381"
+  country_skype_code: "+381"
   currency: RSD
   international_prefix: "99"
   ioc: SRB
@@ -4636,6 +5013,7 @@ RS:
   region: Europe
   subregion: "Southern Europe"
   un_locode: RS
+  number_country_skype_code: "688+381"
 RU: 
   address_format: |-
       {{recipient}}
@@ -4645,6 +5023,7 @@ RU:
   alpha2: RU
   alpha3: RUS
   country_code: "7"
+  country_skype_code: "+7"
   currency: RUB
   international_prefix: "810"
   ioc: RUS
@@ -4665,10 +5044,12 @@ RU:
   region: Europe
   subregion: "Eastern Europe"
   un_locode: RU
+  number_country_skype_code: "643+7"
 RW: 
   alpha2: RW
   alpha3: RWA
   country_code: "250"
+  country_skype_code: "+250"
   currency: RWF
   international_prefix: "00"
   ioc: RWA
@@ -4690,6 +5071,7 @@ RW:
   region: Africa
   subregion: "Eastern Africa"
   un_locode: RW
+  number_country_skype_code: "646+250"
 SA: 
   address_format: |-
       {{recipient}}
@@ -4699,6 +5081,7 @@ SA:
   alpha2: SA
   alpha3: SAU
   country_code: "966"
+  country_skype_code: "+966"
   currency: SAR
   international_prefix: "00"
   ioc: KSA
@@ -4720,10 +5103,12 @@ SA:
   region: Asia
   subregion: "Western Asia"
   un_locode: SA
+  number_country_skype_code: "682+966"
 SB: 
   alpha2: SB
   alpha3: SLB
   country_code: "677"
+  country_skype_code: "+677"
   currency: SBD
   international_prefix: "00"
   ioc: SOL
@@ -4744,10 +5129,12 @@ SB:
   region: Oceania
   subregion: Melanesia
   un_locode: SB
+  number_country_skype_code: "090+677"
 SC: 
   alpha2: SC
   alpha3: SYC
   country_code: "248"
+  country_skype_code: "+248"
   currency: SCR
   international_prefix: "00"
   ioc: SEY
@@ -4765,10 +5152,12 @@ SC:
   region: Africa
   subregion: "Eastern Africa"
   un_locode: SC
+  number_country_skype_code: "690+248"
 SD: 
   alpha2: SD
   alpha3: SDN
   country_code: "249"
+  country_skype_code: "+249"
   currency: SDG
   international_prefix: "00"
   ioc: SUD
@@ -4788,6 +5177,7 @@ SD:
   region: Africa
   subregion: "Northern Africa"
   un_locode: SD
+  number_country_skype_code: "736+249"
 SE: 
   address_format: |-
       {{recipient}}
@@ -4797,6 +5187,7 @@ SE:
   alpha2: SE
   alpha3: SWE
   country_code: "46"
+  country_skype_code: "+46"
   currency: SEK
   international_prefix: "00"
   ioc: SWE
@@ -4817,6 +5208,7 @@ SE:
   region: Europe
   subregion: "Northern Europe"
   un_locode: SE
+  number_country_skype_code: "752+46"
 SG: 
   address_format: |-
       {{recipient}}
@@ -4826,6 +5218,7 @@ SG:
   alpha2: SG
   alpha3: SGP
   country_code: "65"
+  country_skype_code: "+65"
   currency: SGD
   international_prefix: "001"
   ioc: SIN
@@ -4847,10 +5240,12 @@ SG:
   region: Asia
   subregion: "South-Eastern Asia"
   un_locode: SG
+  number_country_skype_code: "702+65"
 SH: 
   alpha2: SH
   alpha3: SHN
   country_code: "290"
+  country_skype_code: "+290"
   currency: SHP
   international_prefix: "00"
   ioc: 
@@ -4871,6 +5266,7 @@ SH:
   region: Africa
   subregion: "Western Africa"
   un_locode: SH
+  number_country_skype_code: "654+290"
 SI: 
   address_format: |-
       {{recipient}}
@@ -4880,6 +5276,7 @@ SI:
   alpha2: SI
   alpha3: SVN
   country_code: "386"
+  country_skype_code: "+386"
   currency: EUR
   international_prefix: "00"
   ioc: SLO
@@ -4900,10 +5297,12 @@ SI:
   region: Europe
   subregion: "Southern Europe"
   un_locode: SI
+  number_country_skype_code: "705+386"
 SJ: 
   alpha2: SJ
   alpha3: SJM
   country_code: "47"
+  country_skype_code: "+47"
   currency: NOK
   international_prefix: "00"
   ioc: 
@@ -4924,6 +5323,7 @@ SJ:
   region: Europe
   subregion: "Northern Europe"
   un_locode: SJ
+  number_country_skype_code: "744+47"
 SK: 
   address_format: |-
       {{recipient}}
@@ -4933,6 +5333,7 @@ SK:
   alpha2: SK
   alpha3: SVK
   country_code: "421"
+  country_skype_code: "+421"
   currency: EUR
   international_prefix: "00"
   ioc: SVK
@@ -4953,10 +5354,12 @@ SK:
   region: Europe
   subregion: "Eastern Europe"
   un_locode: SK
+  number_country_skype_code: "703+421"
 SL: 
   alpha2: SL
   alpha3: SLE
   country_code: "232"
+  country_skype_code: "+232"
   currency: SLL
   international_prefix: "00"
   ioc: SLE
@@ -4974,10 +5377,12 @@ SL:
   region: Africa
   subregion: "Western Africa"
   un_locode: SL
+  number_country_skype_code: "694+232"
 SM: 
   alpha2: SM
   alpha3: SMR
   country_code: "378"
+  country_skype_code: "+378"
   currency: EUR
   international_prefix: "00"
   ioc: SMR
@@ -4999,10 +5404,12 @@ SM:
   region: Europe
   subregion: "Southern Europe"
   un_locode: SM
+  number_country_skype_code: "674+378"
 SN: 
   alpha2: SN
   alpha3: SEN
   country_code: "221"
+  country_skype_code: "+221"
   currency: XOF
   international_prefix: "00"
   ioc: SEN
@@ -5021,10 +5428,12 @@ SN:
   region: Africa
   subregion: "Western Africa"
   un_locode: SN
+  number_country_skype_code: "686+221"
 SO: 
   alpha2: SO
   alpha3: SOM
   country_code: "252"
+  country_skype_code: "+252"
   currency: SOS
   international_prefix: "00"
   ioc: SOM
@@ -5043,10 +5452,12 @@ SO:
   region: Africa
   subregion: "Eastern Africa"
   un_locode: SO
+  number_country_skype_code: "706+252"
 SR: 
   alpha2: SR
   alpha3: SUR
   country_code: "597"
+  country_skype_code: "+597"
   currency: SRD
   international_prefix: "00"
   ioc: SUR
@@ -5065,10 +5476,12 @@ SR:
   region: Americas
   subregion: "South America"
   un_locode: SR
+  number_country_skype_code: "740+597"
 ST: 
   alpha2: ST
   alpha3: STP
   country_code: "239"
+  country_skype_code: "+239"
   currency: STD
   international_prefix: "00"
   ioc: STP
@@ -5090,10 +5503,12 @@ ST:
   region: Africa
   subregion: "Middle Africa"
   un_locode: ST
+  number_country_skype_code: "678+239"
 SV: 
   alpha2: SV
   alpha3: SLV
   country_code: "503"
+  country_skype_code: "+503"
   currency: USD
   international_prefix: "00"
   ioc: ESA
@@ -5112,6 +5527,7 @@ SV:
   region: Americas
   subregion: "Central America"
   un_locode: SV
+  number_country_skype_code: "222+503"
 SY: 
   address_format: |-
       {{recipient}}
@@ -5121,6 +5537,7 @@ SY:
   alpha2: SY
   alpha3: SYR
   country_code: "963"
+  country_skype_code: "+963"
   currency: SYP
   international_prefix: "00"
   ioc: SYR
@@ -5142,10 +5559,12 @@ SY:
   region: Asia
   subregion: "Western Asia"
   un_locode: SY
+  number_country_skype_code: "760+963"
 SZ: 
   alpha2: SZ
   alpha3: SWZ
   country_code: "268"
+  country_skype_code: "+268"
   currency: SZL
   international_prefix: "00"
   ioc: SWZ
@@ -5166,10 +5585,12 @@ SZ:
   region: Africa
   subregion: "Southern Africa"
   un_locode: SZ
+  number_country_skype_code: "748+268"
 TC: 
   alpha2: TC
   alpha3: TCA
   country_code: "1"
+  country_skype_code: "+1649"
   currency: USD
   international_prefix: "011"
   ioc: 
@@ -5190,10 +5611,12 @@ TC:
   region: Americas
   subregion: Caribbean
   un_locode: TC
+  number_country_skype_code: "796+1649"
 TD: 
   alpha2: TD
   alpha3: TCD
   country_code: "235"
+  country_skype_code: "+235"
   currency: XAF
   international_prefix: "15"
   ioc: CHA
@@ -5213,10 +5636,12 @@ TD:
   region: Africa
   subregion: "Middle Africa"
   un_locode: TD
+  number_country_skype_code: "148+235"
 TF: 
   alpha2: TF
   alpha3: ATF
   country_code: ""
+  country_skype_code: "+596"
   currency: EUR
   international_prefix: ""
   ioc: 
@@ -5235,10 +5660,12 @@ TF:
   region: ""
   subregion: ""
   un_locode: 
+  number_country_skype_code: "260+596"
 TG: 
   alpha2: TG
   alpha3: TGO
   country_code: "228"
+  country_skype_code: "+228"
   currency: XOF
   international_prefix: "00"
   ioc: TOG
@@ -5256,10 +5683,12 @@ TG:
   region: Africa
   subregion: "Western Africa"
   un_locode: TG
+  number_country_skype_code: "768+228"
 TH: 
   alpha2: TH
   alpha3: THA
   country_code: "66"
+  country_skype_code: "+66"
   currency: THB
   international_prefix: "001"
   ioc: THA
@@ -5281,11 +5710,13 @@ TH:
   region: Asia
   subregion: "South-Eastern Asia"
   un_locode: TH
+  number_country_skype_code: "764+66"
 TJ: 
   alpha2: TJ
   alpha3: TJK
   alt_currency: RUB
   country_code: "992"
+  country_skype_code: "+992"
   currency: TJS
   international_prefix: "810"
   ioc: TJK
@@ -5306,10 +5737,12 @@ TJ:
   region: Asia
   subregion: "Central Asia"
   un_locode: TJ
+  number_country_skype_code: "762+992"
 TK: 
   alpha2: TK
   alpha3: TKL
   country_code: "690"
+  country_skype_code: "+690"
   currency: NZD
   international_prefix: "00"
   ioc: 
@@ -5330,10 +5763,12 @@ TK:
   region: Oceania
   subregion: Polynesia
   un_locode: TK
+  number_country_skype_code: "772+690"
 TL: 
   alpha2: TL
   alpha3: TLS
   country_code: "670"
+  country_skype_code: "+670"
   currency: IDR
   international_prefix: None
   ioc: 
@@ -5354,10 +5789,12 @@ TL:
   region: Asia
   subregion: "South-Eastern Asia"
   un_locode: 
+  number_country_skype_code: "626+670"
 TM: 
   alpha2: TM
   alpha3: TKM
   country_code: "993"
+  country_skype_code: "+993"
   currency: ~
   international_prefix: "810"
   ioc: TKM
@@ -5378,10 +5815,12 @@ TM:
   region: Asia
   subregion: "Central Asia"
   un_locode: TM
+  number_country_skype_code: "795+993"
 TN: 
   alpha2: TN
   alpha3: TUN
   country_code: "216"
+  country_skype_code: "+216"
   currency: TND
   international_prefix: "00"
   ioc: TUN
@@ -5402,10 +5841,12 @@ TN:
   region: Africa
   subregion: "Northern Africa"
   un_locode: TN
+  number_country_skype_code: "788+216"
 TO: 
   alpha2: TO
   alpha3: TON
   country_code: "676"
+  country_skype_code: "+676"
   currency: TOP
   international_prefix: "00"
   ioc: TGA
@@ -5425,6 +5866,7 @@ TO:
   region: Oceania
   subregion: Polynesia
   un_locode: TO
+  number_country_skype_code: "776+676"
 TR: 
   address_format: |-
       {{recipient}}
@@ -5434,6 +5876,7 @@ TR:
   alpha2: TR
   alpha3: TUR
   country_code: "90"
+  country_skype_code: "+90"
   currency: TRY
   international_prefix: "00"
   ioc: TUR
@@ -5454,10 +5897,12 @@ TR:
   region: Asia
   subregion: "Western Asia"
   un_locode: TR
+  number_country_skype_code: "792+90"
 TT: 
   alpha2: TT
   alpha3: TTO
   country_code: "1"
+  country_skype_code: "+1868"
   currency: TTD
   international_prefix: "011"
   ioc: TRI
@@ -5478,10 +5923,12 @@ TT:
   region: Americas
   subregion: Caribbean
   un_locode: TT
+  number_country_skype_code: "780+1868"
 TV: 
   alpha2: TV
   alpha3: TUV
   country_code: "688"
+  country_skype_code: "+688"
   currency: TVD
   international_prefix: "00"
   ioc: TUV
@@ -5502,6 +5949,7 @@ TV:
   region: Oceania
   subregion: Polynesia
   un_locode: TV
+  number_country_skype_code: "798+688"
 TW: 
   address_format: |-
       {{recipient}}
@@ -5511,6 +5959,7 @@ TW:
   alpha2: TW
   alpha3: TWN
   country_code: "886"
+  country_skype_code: "+886"
   currency: TWD
   international_prefix: "002"
   ioc: TPE
@@ -5530,10 +5979,12 @@ TW:
   region: Asia
   subregion: "Eastern Asia"
   un_locode: TW
+  number_country_skype_code: "158+886"
 TZ: 
   alpha2: TZ
   alpha3: TZA
   country_code: "255"
+  country_skype_code: "+255"
   currency: TZS
   international_prefix: "000"
   ioc: TAN
@@ -5553,6 +6004,7 @@ TZ:
   region: Africa
   subregion: "Eastern Africa"
   un_locode: TZ
+  number_country_skype_code: "834+255"
 UA: 
   address_format: |-
       {{recipient}}
@@ -5563,6 +6015,7 @@ UA:
   alpha2: UA
   alpha3: UKR
   country_code: "380"
+  country_skype_code: "+380"
   currency: UAH
   international_prefix: "810"
   ioc: UKR
@@ -5584,10 +6037,12 @@ UA:
   region: Europe
   subregion: "Eastern Europe"
   un_locode: UA
+  number_country_skype_code: "804+380"
 UG: 
   alpha2: UG
   alpha3: UGA
   country_code: "256"
+  country_skype_code: "+256"
   currency: UGX
   international_prefix: "000"
   ioc: UGA
@@ -5605,10 +6060,12 @@ UG:
   region: Africa
   subregion: "Eastern Africa"
   un_locode: UG
+  number_country_skype_code: "800+256"
 UM: 
   alpha2: UM
   alpha3: UMI
   country_code: ""
+  country_skype_code: "+1"
   currency: USD
   international_prefix: ""
   ioc: 
@@ -5627,6 +6084,7 @@ UM:
   region: Americas
   subregion: "Northern America"
   un_locode: UM
+  number_country_skype_code: "581+1"
 US: 
   address_format: |-
       {{recipient}}
@@ -5636,6 +6094,7 @@ US:
   alpha2: US
   alpha3: USA
   country_code: "1"
+  country_skype_code: "+1"
   currency: USD
   international_prefix: "011"
   ioc: USA
@@ -5656,10 +6115,12 @@ US:
   region: Americas
   subregion: "Northern America"
   un_locode: US
+  number_country_skype_code: "840+1"
 UY: 
   alpha2: UY
   alpha3: URY
   country_code: "598"
+  country_skype_code: "+598"
   currency: UYU
   international_prefix: "00"
   ioc: URU
@@ -5678,10 +6139,12 @@ UY:
   region: Americas
   subregion: "South America"
   un_locode: UY
+  number_country_skype_code: "858+598"
 UZ: 
   alpha2: UZ
   alpha3: UZB
   country_code: "998"
+  country_skype_code: "+998"
   currency: UZS
   international_prefix: "810"
   ioc: UZB
@@ -5702,10 +6165,12 @@ UZ:
   region: Asia
   subregion: "Central Asia"
   un_locode: UZ
+  number_country_skype_code: "860+998"
 VA: 
   alpha2: VA
   alpha3: VAT
   country_code: "39"
+  country_skype_code: "+379"
   currency: EUR
   international_prefix: "00"
   ioc: 
@@ -5726,10 +6191,12 @@ VA:
   region: Europe
   subregion: "Southern Europe"
   un_locode: VA
+  number_country_skype_code: "336+379"
 VC: 
   alpha2: VC
   alpha3: VCT
   country_code: "1"
+  country_skype_code: "+1784"
   currency: XCD
   international_prefix: "011"
   ioc: VIN
@@ -5750,10 +6217,12 @@ VC:
   region: Americas
   subregion: Caribbean
   un_locode: VC
+  number_country_skype_code: "670+1784"
 VE: 
   alpha2: VE
   alpha3: VEN
   country_code: "58"
+  country_skype_code: "+58"
   currency: VEF
   international_prefix: "00"
   ioc: VEN
@@ -5771,10 +6240,12 @@ VE:
   region: Americas
   subregion: "South America"
   un_locode: VE
+  number_country_skype_code: "862+58"
 VG: 
   alpha2: VG
   alpha3: VGB
   country_code: "1"
+  country_skype_code: "+1284"
   currency: USD
   international_prefix: "011"
   ioc: IVB
@@ -5795,10 +6266,12 @@ VG:
   region: Americas
   subregion: Caribbean
   un_locode: VG
+  number_country_skype_code: "092+1284"
 VI: 
   alpha2: VI
   alpha3: VIR
   country_code: "1"
+  country_skype_code: "+1340"
   currency: USD
   international_prefix: "011"
   ioc: ISV
@@ -5819,10 +6292,12 @@ VI:
   region: Americas
   subregion: Caribbean
   un_locode: VI
+  number_country_skype_code: "850+1340"
 VN: 
   alpha2: VN
   alpha3: VNM
   country_code: "84"
+  country_skype_code: "+84"
   currency: VND
   international_prefix: "00"
   ioc: VIE
@@ -5843,10 +6318,12 @@ VN:
   region: Asia
   subregion: "South-Eastern Asia"
   un_locode: VN
+  number_country_skype_code: "704+84"
 VU: 
   alpha2: VU
   alpha3: VUT
   country_code: "678"
+  country_skype_code: "+678"
   currency: ~
   international_prefix: "00"
   ioc: VAN
@@ -5866,10 +6343,12 @@ VU:
   region: Oceania
   subregion: Melanesia
   un_locode: VU
+  number_country_skype_code: "548+678"
 WF: 
   alpha2: WF
   alpha3: WLF
   country_code: "681"
+  country_skype_code: "+681"
   currency: XPF
   international_prefix: "19"
   ioc: 
@@ -5890,10 +6369,12 @@ WF:
   region: Oceania
   subregion: Polynesia
   un_locode: WF
+  number_country_skype_code: "876+681"
 WS: 
   alpha2: WS
   alpha3: WSM
   country_code: "685"
+  country_skype_code: "+685"
   currency: USD
   international_prefix: "00"
   ioc: SAM
@@ -5912,6 +6393,7 @@ WS:
   region: Oceania
   subregion: Polynesia
   un_locode: WS
+  number_country_skype_code: "882+685"
 YE: 
   address_format: |-
       {{recipient}}
@@ -5921,6 +6403,7 @@ YE:
   alpha2: YE
   alpha3: YEM
   country_code: "967"
+  country_skype_code: "+967"
   currency: YER
   international_prefix: "00"
   ioc: YEM
@@ -5942,10 +6425,12 @@ YE:
   region: Asia
   subregion: "Western Asia"
   un_locode: YE
+  number_country_skype_code: "887+967"
 YT: 
   alpha2: YT
   alpha3: MYT
   country_code: "269"
+  country_skype_code: "+269"
   currency: EUR
   international_prefix: "00"
   ioc: 
@@ -5966,6 +6451,7 @@ YT:
   region: Africa
   subregion: "Eastern Africa"
   un_locode: YT
+  number_country_skype_code: "175+269"
 ZA: 
   address_format: |-
       {{recipient}}
@@ -5977,6 +6463,7 @@ ZA:
   alpha2: ZA
   alpha3: ZAF
   country_code: "27"
+  country_skype_code: "+27"
   currency: ZAR
   international_prefix: 09
   ioc: RSA
@@ -5997,10 +6484,12 @@ ZA:
   region: Africa
   subregion: "Southern Africa"
   un_locode: ZA
+  number_country_skype_code: "710+27"
 ZM: 
   alpha2: ZM
   alpha3: ZMB
   country_code: "260"
+  country_skype_code: "+260"
   currency: ZMK
   international_prefix: "00"
   ioc: ZAM
@@ -6020,10 +6509,12 @@ ZM:
   region: Africa
   subregion: "Eastern Africa"
   un_locode: ZM
+  number_country_skype_code: "894+260"
 ZW: 
   alpha2: ZW
   alpha3: ZWE
   country_code: "263"
+  country_skype_code: "+263"
   currency: ZWD
   international_prefix: "00"
   ioc: ZIM
@@ -6046,3 +6537,4 @@ ZW:
   region: Africa
   subregion: "Eastern Africa"
   un_locode: ZW
+  number_country_skype_code: "716+263"
